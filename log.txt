@@ -1,0 +1,8 @@
+
+1708366496017: ::1 GET: /api/expense
+
+1708366565885: ::1 GET: /api/expenses
+
+1708366681454: ::1 POST: /api/expenses
+
+1708366691486: ::1 GET: /api/expenses
